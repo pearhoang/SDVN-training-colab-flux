@@ -1,4 +1,4 @@
 [submodule "ai-toolkit"]
 	path = ai-toolkit
-	url = git@github.com:pearhoang/ai-toolkit.git
+	url = https://github.com/pearhoang/ai-toolkit.git
 	branch = main
